@@ -1,1 +1,1 @@
-# template-ae-json-library
+This this just a dummy repo for the application example "ae-json-library". This is works as an placeholder so that the package with the application can be hosted as an teplate project.
